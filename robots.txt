@@ -1,4 +1,10 @@
 User-agent: *
 Allow: /
 
+User-agent: *
+Disallow: /home/images/
+
+User-agent: *
+Disallow: /home/portfolio/
+
 Sitemap: https://nathaniel-j-taylor.github.io/home/sitemap.xml
